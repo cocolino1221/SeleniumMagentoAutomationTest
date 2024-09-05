@@ -7,6 +7,30 @@
     <groupId>org.example</groupId>
     <artifactId>QteamE-commerceSeleniumTest</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+    <dependency>
+        <groupId>org.seleniumhq.selenium</groupId>
+        <artifactId>selenium-java</artifactId>
+        <version>4.24.0</version>
+    </dependency>
+        <dependency>
+            <groupId>com.codeborne</groupId>
+            <artifactId>selenide</artifactId>
+            <version>7.4.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>7.9.0</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.github.javafaker</groupId>
+            <artifactId>javafaker</artifactId>
+            <version>1.0.2</version>
+        </dependency>
+
+    </dependencies>
 
     <properties>
         <maven.compiler.source>22</maven.compiler.source>

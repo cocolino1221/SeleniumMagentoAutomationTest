@@ -6,15 +6,18 @@
       <option name="ignoredModules">
         <list>
           <option value="QteamE-commerceSeleniumTest" />
+          <option value="QteamE-commerceSeleniumTest" />
         </list>
       </option>
       <option name="ignoredPackages">
         <list>
           <option value="io.netty:netty-codec-http:4.1.92.Final" />
+          <option value="org.yaml:snakeyaml:1.23" />
         </list>
       </option>
       <option name="ignoredReasons">
         <list>
+          <option value="Not exploitable" />
           <option value="Not exploitable" />
         </list>
       </option>

@@ -4,18 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcb779ad-2d9e-4cd7-a43f-2527de7ae57f" name="Changes" comment="" />
+    <list default="true" id="dcb779ad-2d9e-4cd7-a43f-2527de7ae57f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CheckoutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CheckoutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/E2eTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/E2eTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2lK4o5oeBODEQXsHZkBPL3oNYW5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,12 +42,105 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.QteamE-commerceSeleniumTest [install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.AuthenticationTest.createNewAccount.executor": "Run",
+    "TestNG.AuthenticationTest.loginTestWithInvalidCredentials.executor": "Run",
+    "TestNG.AuthenticationTest.loginTestWithValidCredentials.executor": "Run",
+    "TestNG.CartTest.addToCartTest.executor": "Run",
+    "TestNG.CartTest.openCartFromHomepage.executor": "Run",
+    "TestNG.CartTest.openCartFromLink.executor": "Run",
+    "TestNG.E2eTest.e2eTestAsGuest.executor": "Run",
+    "TestNG.E2eTest.e2eTestAuthenticated.executor": "Run",
+    "TestNG.HomePageTest.executor": "Run",
+    "TestNG.HomePageTest.openPageTest.executor": "Debug",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/constantinpristavita/QteamE-commerceSeleniumTest",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.E2eTest.e2eTestAsGuest">
+    <configuration name="AuthenticationTest.createNewAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QteamE-commerceSeleniumTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AuthenticationTest" />
+      <option name="METHOD_NAME" value="createNewAccount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartTest.addToCartTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QteamE-commerceSeleniumTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CartTest" />
+      <option name="METHOD_NAME" value="addToCartTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartTest.openCartFromHomepage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QteamE-commerceSeleniumTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CartTest" />
+      <option name="METHOD_NAME" value="openCartFromHomepage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2eTest.e2eTestAsGuest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QteamE-commerceSeleniumTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="E2eTest" />
+      <option name="METHOD_NAME" value="e2eTestAsGuest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2eTest.e2eTestAuthenticated" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QteamE-commerceSeleniumTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="E2eTest" />
+      <option name="METHOD_NAME" value="e2eTestAuthenticated" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E2eTest.e2eTestAsGuest" />
+        <item itemvalue="TestNG.E2eTest.e2eTestAuthenticated" />
+        <item itemvalue="TestNG.CartTest.addToCartTest" />
+        <item itemvalue="TestNG.CartTest.openCartFromHomepage" />
+        <item itemvalue="TestNG.AuthenticationTest.createNewAccount" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
